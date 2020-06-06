@@ -1,0 +1,1 @@
+Particles randomly move around and stick to any existing geometry resulting in natural-looking structures reminiscent of coral or plants.
