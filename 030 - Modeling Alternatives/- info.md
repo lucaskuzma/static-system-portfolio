@@ -1,1 +1,0 @@
-Some approaches to generating geometry. Algorithmic growth, artifical life, and physical simulations.
