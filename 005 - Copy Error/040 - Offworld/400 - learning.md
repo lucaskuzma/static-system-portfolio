@@ -1,0 +1,1 @@
+A StyleGan2 model was trained with renders of the generative objects as input, yielding alien forms perhaps already implied by the otherwordly geometries. A point of departure, when our own designs do not suffice.
