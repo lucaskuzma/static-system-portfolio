@@ -1,1 +1,0 @@
-Translucence and reflection combine to skin a deformed hull. Careful organization and proportion rein in a chaotic urge.

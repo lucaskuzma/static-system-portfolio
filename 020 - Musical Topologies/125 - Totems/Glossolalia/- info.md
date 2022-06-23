@@ -1,1 +1,0 @@
-Synthetic glossolalia yields furry forms.

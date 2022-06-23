@@ -1,1 +1,0 @@
-Sound mapped to modeling and animation. Interpretation, allusion, rendition.

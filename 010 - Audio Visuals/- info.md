@@ -1,1 +1,0 @@
-Music videos, video promos, bumpers, and loops. Manual interpretations of sound, often with an audio-driven generative component.
